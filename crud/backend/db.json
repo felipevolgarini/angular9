@@ -19,11 +19,6 @@
       "name": "Produto de Teste",
       "price": 125.98,
       "id": 4
-    },
-    {
-      "name": "Veio do formulário",
-      "price": "9.99",
-      "id": 5
     }
   ]
 }
